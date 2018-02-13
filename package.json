@@ -1,10 +1,11 @@
 {
   "name": "hn-minimal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Put your description here.",
   "main": "app.js",
   "scripts": {
     "build": "gulp",
+    "start": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rbiggs",
@@ -17,7 +18,7 @@
     "babel-preset-env": "^1.6.0",
     "bluebird": "~2.9.24",
     "browser-sync": "^2.12.10",
-    "composi": "^1.1.1",
+    "composi": "^1.4.8",
     "gulp": "^3.9.1",
     "gulp-better-rollup": "^1.1.1",
     "gulp-cssnano": "^2.1.2",

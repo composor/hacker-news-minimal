@@ -3,7 +3,7 @@ hacker-news-minimal
 
 Author: rbiggs 
 
-(c) 2017 All Rights Reserved
+(c) 2017 to present All Rights Reserved
 
 This project is created using Composi. You can learn more about Composi and how to use it at its [website](https://github.com/composi/composi/docs/index.md).
 
