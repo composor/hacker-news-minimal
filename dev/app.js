@@ -29,7 +29,7 @@ class App extends Component {
       </div>
     )
   }
-  componentWasCreated() {
+  componentDidMount() {
 		this.loadItems()
 	}
   loadItems() {
